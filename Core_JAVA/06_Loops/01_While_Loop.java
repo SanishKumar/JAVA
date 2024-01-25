@@ -1,3 +1,0 @@
-class While_Loop {
-    
-}
