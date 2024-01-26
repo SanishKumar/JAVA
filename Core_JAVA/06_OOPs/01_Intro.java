@@ -22,8 +22,3 @@ class Intro {
 }
 
 
-
-// Object Oriented Programming
-// Object - Properties and Behaviours
-
-// Class
