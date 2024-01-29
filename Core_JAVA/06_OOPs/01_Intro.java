@@ -1,8 +1,14 @@
 class Calculator{
     int a;
     public int add(int num1, int num2){
-        int r = num1 + num2;
-        return r;
+        // int r = num1 + num2;
+        return num1+num2;
+    }
+    public int add(int num1, int num2, int num3){
+        return num1+num2;
+    }
+    public double add(double num1, int num2){
+        return num1+num2;
     }
 }
 
