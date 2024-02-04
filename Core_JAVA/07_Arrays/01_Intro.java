@@ -15,5 +15,8 @@ class Intro {
                 // System.out.print(nums[i] + " ");
         }
         System.out.println(sum);
+        // for(int n : nums){
+        //     System.out.println(n);
+        // }
     }
 }
