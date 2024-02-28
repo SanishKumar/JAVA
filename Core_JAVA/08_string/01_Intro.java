@@ -13,6 +13,7 @@ class Intro {
         sb.setLength(30);
 
         System.out.println(sb);
+        System.out.println(sb.capacity());
 
     }
 }
