@@ -1,3 +1,10 @@
+
+// Types of error:-
+// 1. Complile - time error
+// 2. Runtime error -> Exception handling
+// 3. Logical error
+
+
 class LPU{
     public static void main(String args[]){
 
