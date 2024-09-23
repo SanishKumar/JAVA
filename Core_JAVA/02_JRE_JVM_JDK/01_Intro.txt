@@ -1,4 +1,4 @@
-1. JVM (Java Virtual Mschine)
+1. JVM (Java Virtual Machine)
     It provides a runtime environment in which Java bytecode can be executed. It can also run those programs which are written in other languages and compiled to Java bytecode.
 
 2. JRE (Java Runtime Environment)

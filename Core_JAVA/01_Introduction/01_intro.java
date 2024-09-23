@@ -3,7 +3,7 @@ import java.time.LocalDateTime;
 // import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 
-class LPU{
+class LPUDate{
     public static void main(String args[]){
 
         // LocalDate date = LocalDate.now();

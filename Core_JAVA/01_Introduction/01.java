@@ -26,7 +26,7 @@ class GenericClass<T extends Number>{
     }
 }
 
-class LPU{
+class LPUGenerics{
     public static void main(String args[]){
         // GenericClass<Integer> obj1 = new GenericClass(5);
         // System.out.println(obj1.getData());
