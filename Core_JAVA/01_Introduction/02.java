@@ -3,7 +3,7 @@
 import java.time.ZoneId;
 // import java.time.format.DateTimeFormatter;
 
-class LPU{
+class LPUDT{
     public static void main(String args[]){
         // LocalDate ld = LocalDate.of(1980, 2, 29);
         // System.out.println(ld.isLeapYear());
